@@ -1,0 +1,25 @@
+{
+  "name": "random_image_api",
+  "version": "1.0.0",
+  "description": "unsplash image api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muzammilx07/random_image_api.git"
+  },
+  "author": "Masoom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muzammilx07/random_image_api/issues"
+  },
+  "homepage": "https://github.com/muzammilx07/random_image_api#readme",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}
